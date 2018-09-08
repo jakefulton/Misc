@@ -9,7 +9,7 @@ gcc life.c -o life -lncurses
 
 ## rename.py
 
-Rename .mp3 files under a root directory.
+Rename .mp3 files under a root directory.  
 Name will contain: artist, album, track#, and title.
 
 ```
@@ -20,7 +20,7 @@ rename.rename_mp3_files(root_dir, 1, 2, 3, 4)
 
 ## blackjack.c
 
-Play blackjack against the computer.
+Play blackjack against the computer.  
 Start out with $20 and keep betting until you run out.
 
 ## lss.c
@@ -29,8 +29,8 @@ Implement "ls -l" sorted by decreasing byte count in C.
 
 ## lss.sh
 
-Similar to lss.c but implemented in bash.
-Also accepts other options that are available to ls (like -r, or --all).
+Similar to lss.c but implemented in bash.  
+Also accepts other options that are available to ls (like -r, or --all).  
 Additional arguments are interpreted as files
 
 ```
@@ -40,7 +40,7 @@ bash lss.sh [option]... [file]...
 
 ## every.c
 
-C filter that prints M lines out of every N for a file, or list of files
+C filter that prints M lines out of every N for a file, or list of files.  
 Default for both N and M is 1.
 
 ```
