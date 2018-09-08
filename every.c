@@ -1,5 +1,3 @@
-//Jake Fulton ID: 51804736
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
